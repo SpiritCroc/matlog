@@ -676,7 +676,7 @@ public class LogcatActivity extends AppCompatActivity implements FilterListener 
 
         final MaterialDialog dialog = new MaterialDialog.Builder(this)
                 .title(R.string.filter_choice)
-                .iconRes(R.drawable.abc_ic_search_api_mtrl_alpha)
+                .iconRes(R.drawable.ic_search_white_24dp)
                 .customView(R.layout.dialog_searchby, false)
                 .show();
 

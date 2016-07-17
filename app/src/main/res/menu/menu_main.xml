@@ -4,7 +4,7 @@
 
     <item
         android:id="@+id/menu_search"
-        android:icon="@drawable/abc_ic_search_api_mtrl_alpha"
+        android:icon="@drawable/ic_search_white_24dp"
         android:title="@string/abc_searchview_description_search"
         app:actionViewClass="android.support.v7.widget.SearchView"
         app:showAsAction="always|collapseActionView" />
@@ -23,7 +23,7 @@
 
     <item
         android:id="@+id/menu_clear"
-        android:icon="@drawable/abc_ic_clear_mtrl_alpha"
+        android:icon="@drawable/ic_clear_white_24dp"
         android:title="@string/clear"
         app:showAsAction="ifRoom" />
 
